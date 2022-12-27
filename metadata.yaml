@@ -1,0 +1,31 @@
+_repo: Memoires-de-Mme-la-Comtesse-de-Genlis_69541
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Genlis, Stéphanie-Félicité Du Crest comtesse de
+    gutenberg_agent_id: '55305'
+    url: http://www.gutenberg.org/2009/agents/55305
+  editor:
+    agent_name: Carette, Madame Henri
+    gutenberg_agent_id: '55306'
+    url: http://www.gutenberg.org/2009/agents/55306
+description: ''
+gutenberg_issued: '2022-12-14'
+identifiers:
+  gutenberg: '69541'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k937061x
+pgterms:marc905: 20211219050955genlis
+pgterms:marc906: '1925'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: 'France: Albin Michel,1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mémoires de Mme la Comtesse de Genlis
+url: http://www.gutenberg.org/ebooks/69541
